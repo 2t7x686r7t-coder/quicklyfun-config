@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "data": {
+    "version": 1,
+    "endpoints": [
+      "https://api.fdsf23r.space",
+      "https://api.alidianyun.com",
+      "https://api.tencentclouddata.com"
+    ],
+    "updated_at": "2026-02-04",
+    "announcement": null,
+    "min_version": null
+  }
+}
