@@ -2,6 +2,7 @@
   "code": 200,
   "data": {
     "endpoints": [
+      "https://gateway.ouchiworking.com",
       "https://api.quicklyfun.cc"
     ]
   }
