@@ -1,9 +1,20 @@
 {
   "code": 200,
   "data": {
+    "version": 2,
     "endpoints": [
       "https://gateway.ouchiworking.com",
-      "https://api.quicklyfun.cc"
-    ]
+      "https://api.quicklyfun.cc",
+      "https://api.fdsf23r.space",
+      "https://api.baiducdndata.com",
+      "https://api.alidianyun.com",
+      "https://api.tencentclouddata.com",
+      "https://api.hwcloudservice.com"
+    ],
+    "replace_builtin": false,
+    "updated_at": "2026-05-03T04:13:28Z",
+    "nonce": "63597c0d1366e859e3457f41",
+    "sig": "wA+LiSweaupYpN/38QIykupIalzLdYNyyLz6Sq6v85XiKN3XTzrmR+UhHXg1GsB6RvZWOeKcvUwf3UQA/1npAg==",
+    "key_id": "f310904e309729b0"
   }
 }
