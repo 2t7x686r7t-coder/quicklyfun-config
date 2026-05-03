@@ -12,9 +12,9 @@
       "https://api.hwcloudservice.com"
     ],
     "replace_builtin": false,
-    "updated_at": "2026-05-03T04:13:28Z",
-    "nonce": "63597c0d1366e859e3457f41",
-    "sig": "wA+LiSweaupYpN/38QIykupIalzLdYNyyLz6Sq6v85XiKN3XTzrmR+UhHXg1GsB6RvZWOeKcvUwf3UQA/1npAg==",
+    "updated_at": "2026-05-03T04:13:37Z",
+    "nonce": "4f66fbdef915dd60ba5f0183",
+    "sig": "iLNPricimEeFUKLDRO6t8ldVxFjOIOPAtb0nv/fK2lE8q6D/pLtUonYOrELw1g0Y9H7WQ+z2tDg/NSb5fXejDQ==",
     "key_id": "f310904e309729b0"
   }
 }
